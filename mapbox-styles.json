@@ -26,7 +26,7 @@
   },
   "sources": {
     "composite": {
-      "url": "mapbox://mapbox.mapbox-streets-v8,mapbox.mapbox-terrain-v2",
+      "url": "https://raw.githubusercontent.com/TepSLore/mapboxStyle/main/mapbox-terrain-styles.json",
       "type": "vector"
     }
   },
